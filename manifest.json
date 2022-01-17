@@ -1,6 +1,6 @@
 {
-  "name": "Background change extension",
-  "description": "My first extension!",
+  "name": "Background change extension - try 2",
+  "description": "Changing to time sequence",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
